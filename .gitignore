@@ -1,0 +1,5 @@
+# Cache impor Godot (dibuat ulang otomatis saat proyek dibuka)
+.godot/
+# Hasil ekspor
+build/
+export_presets.cfg.bak
